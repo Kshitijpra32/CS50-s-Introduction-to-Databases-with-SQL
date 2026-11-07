@@ -1,0 +1,30 @@
++---------------------------------------+--------+------------+-----------------------------+
+|                 title                 | season |  air_date  |            topic            |
++---------------------------------------+--------+------------+-----------------------------+
+| Hugs & Witches                        | 2      | 2003-02-14 | Median of Data (Average)    |
+| Totally Rad                           | 2      | 2003-03-31 | Perimeter/Area Relationship |
+| Harriet Hippo & the Mean Green        | 2      | 2003-04-01 | Equivalent Fractions        |
+| True Colors                           | 2      | 2003-04-02 | Counter Examples            |
+| All the Right Angles                  | 2      | 2003-04-03 | Angle Measurement           |
+| Mother's Day                          | 2      | 2003-05-09 | Decimals                    |
+| The Eye of Rom                        | 2      | 2003-05-16 | Inverse Operations          |
+| A Whale of a Tale                     | 2      | 2003-05-23 | Ballpark estimation         |
+| Double Trouble                        | 2      | 2003-05-30 | Growth by Doubling          |
+| Raising the Bar                       | 2      | 2003-09-15 | Bar graphs                  |
+| The Wedding Scammer                   | 2      | 2003-09-16 | Problem Solving             |
+| The Guilty Party                      | 2      | 2003-09-17 | Point of View               |
+| A Time to Cook                        | 2      | 2003-09-18 | Elapsed Time                |
+| Trick or Treat                        | 2      | 2003-10-28 | Functions                   |
+| EcoHaven CSE                          | 3      | 2004-05-03 | Body Math                   |
+| The Borg of the Ring                  | 3      | 2004-05-04 | Circles                     |
+| A World Without Zero                  | 3      | 2004-05-05 | Zero                        |
+| A Piece of the Action                 | 3      | 2004-05-06 | Percents                    |
+| The Creech Who Would be Crowned       | 3      | 2004-05-07 | Direction and Distance      |
+| The Grapes of Plath                   | 3      | 2004-09-16 | High-Low Estimation         |
+| A Perfect Fit                         | 3      | 2003-09-23 | Tessellations               |
+| Be Reasonable                         | 3      | 2004-09-30 | Reasoning                   |
+| The Snelfu Snafu                      | 3      | 2004-10-07 | Saving Money                |
+| The Snelfu Snafu                      | 3      | 2004-10-14 | Spending Money              |
+| Shari Spotter and the Cosmic Crumpets | 3      | 2004-10-28 | Mixed-Number Fractions      |
+| Starlight Night                       | 3      | 2004-12-31 | Finding a Simpler Case      |
++---------------------------------------+--------+------------+-----------------------------+

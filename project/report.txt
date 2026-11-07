@@ -1,0 +1,8 @@
+Smart Expense Tracker Report
+============================
+
+Total entries: 0
+Total spent: 0.00
+
+Spent by category:
+  (no data)
